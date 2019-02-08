@@ -1,4 +1,12 @@
+<<<<<<< current
 wefrewrw
 test
 test
 test
+=======
+wefrewrw
+test
+test
+test
+test
+>>>>>>> before discard
