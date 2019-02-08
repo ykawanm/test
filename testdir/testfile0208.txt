@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< current
 wefrewrw
 test
@@ -10,3 +11,6 @@ test
 test
 test
 >>>>>>> before discard
+=======
+wefrewrw
+>>>>>>> 3fc7a251da4447b26272af29d1eb59f04cea9d05
